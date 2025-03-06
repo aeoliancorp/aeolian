@@ -135,19 +135,25 @@
        </image:image>
   </url>
   <url>
-       <loc>https://www.aeolian.com.tw/服務項目/代加工服務</loc>
+       <loc>https://www.aeolian.com.tw/服務範圍/</loc>
        <lastmod>2025-03-06T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://www.aeolian.com.tw/服務項目/客製化服務</loc>
+       <loc>https://www.aeolian.com.tw/服務範圍/代加工服務</loc>
+       <lastmod>2025-03-06T01:17:08+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://www.aeolian.com.tw/服務範圍/客製化服務</loc>
        <lastmod>2025-03-06T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.7000</priority>
   </url>
   <url>
-<loc>https://www.aeolian.com.tw/服務項目/品質管理</loc>
+<loc>https://www.aeolian.com.tw/服務範圍/品質管理</loc>
        <lastmod>2025-03-06T01:17:08+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.7000</priority>
