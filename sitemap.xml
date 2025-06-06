@@ -101,6 +101,17 @@
            <image:title>亞祿股份有限公司-片狀PVC產品的色餅</image:title>
        </image:image>
   </url>
+    <url>
+       <loc>https://www.aeolian.com.tw/亞祿產品/color-chip</loc>
+       <lastmod>2025-04-28T01:17:08+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <image:image>
+           <image:loc>https://drive.google.com/file/d/1wvsHgI1MAF40vgkJ4k2Xa_lVWU6CiKrO/view?usp=sharing</image:loc>
+           <image:caption>片狀PVC產品的色餅</image:caption>
+           <image:title>亞祿股份有限公司-片狀PVC產品的色餅</image:title>
+       </image:image>
+  </url>
   <url>
        <loc>https://www.aeolian.com.tw/亞祿產品/色母粒</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
@@ -189,8 +200,30 @@
            <image:title>亞祿股份有限公司-耐燃母粒-防火母粒</image:title>
        </image:image>
   </url>
+    <url>
+       <loc>https://www.aeolian.com.tw/亞祿產品/flame-retardant</loc>
+       <lastmod>2025-04-28T01:17:08+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <image:image>
+           <image:loc>https://drive.google.com/file/d/15UBjlumRJE8BFUOUVwK4gkTbJvgMYEwf/view?usp=sharing</image:loc>
+           <image:caption>增加耐燃性的防火母粒</image:caption>
+           <image:title>亞祿股份有限公司-耐燃母粒-防火母粒</image:title>
+       </image:image>
+  </url>
   <url>
        <loc>https://www.aeolian.com.tw/亞祿產品/客製化色母粒</loc>
+       <lastmod>2025-04-28T01:17:08+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.9000</priority>
+       <image:image>
+           <image:loc>https://drive.google.com/file/d/1JELevTvcsEb0VcqxxcsWR6Zm1jbZ1DtE/view?usp=sharing</image:loc>
+           <image:caption>多樣色彩選擇的客製化色母粒</image:caption>
+           <image:title>亞祿股份有限公司-客製化色母粒-色母-色粉，提供多樣化顏色選擇</image:title>
+       </image:image>
+  </url>
+    <url>
+       <loc>https://www.aeolian.com.tw/亞祿產品/custom-masterbatch</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9000</priority>
