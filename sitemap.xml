@@ -40,6 +40,12 @@
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
+    <url>
+       <loc>https://www.aeolian.com.tw/亞祿簡介</loc>
+       <lastmod>2025-04-28T01:17:08+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
   <url>
        <loc>https://www.aeolian.com.tw/亞祿產品</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
@@ -47,7 +53,7 @@
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://www.aeolian.com.tw/亞祿產品/塑膠色粉</loc>
+       <loc>https://www.aeolian.com.tw/亞祿產品/pigment-powder</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9000</priority>
@@ -69,7 +75,7 @@
        </image:image>
   </url>
   <url>
-       <loc>https://www.aeolian.com.tw/亞祿產品/塑膠色砂</loc>
+       <loc>https://www.aeolian.com.tw/亞祿產品/color-sand</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
@@ -190,7 +196,7 @@
        </image:image>
   </url>  
   <url>
-       <loc>https://www.aeolian.com.tw/亞祿產品/耐燃母粒</loc>
+       <loc>https://www.aeolian.com.tw/亞祿產品/flame-retardant-masterbatch</loc>
        <lastmod>2025-04-28T01:17:08+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.9000</priority>
